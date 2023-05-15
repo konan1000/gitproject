@@ -1,2 +1,1 @@
 # gitproject
-$ cd desktop
